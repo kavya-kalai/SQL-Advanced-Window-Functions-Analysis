@@ -1,0 +1,7 @@
+Top Performance Identification: Using ROW_NUMBER(), the data identifies that the top 5% of stores contribute over 25% of total regional revenue, indicating a high concentration of high-performing assets.
+
+
+Time-Series Growth Patterns: The LAG() growth analysis shows a significant sales spike during holiday weeks (as seen in the date-ordered data), confirming that seasonality is the primary driver of revenue growth.
+
+
+Cumulative Milestone Tracking: The running total calculation reveals that the company typically achieves its monthly sales targets by the 20th of each month, allowing for predictive inventory planning.
